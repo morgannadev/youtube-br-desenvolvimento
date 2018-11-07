@@ -160,3 +160,18 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Canal Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw)
 - Canal do Felipe Fontoura, desenvolvedor, que dá dicas sobre desenvolvimento e carreira em TI.
+
+[CaquiCoders](https://www.youtube.com/CaquiCoders)
+- Canal da comunidade CaquiCoders que, além dos eventos presenciais na região do Alto Tietê de SP, também está compartilhando conteúdo online para a galera discutir e aprender sobre carreira em TI, desenvolvimento e diversas tecnologias.
+
+[DevelopersBR](https://www.youtube.com/DevelopersBR)
+- Canal da comunidade DevelopersBR que está compartilhando muito conteúdo sobre várias tecnologias entre outros assuntos relacionados a TI.
+
+[WoMakersCode](https://www.youtube.com/WoMakersCode)
+- Canal da comunidade WoMarkersCode que compartilha conteúdo sobre novas tecnologias, projetos open-source, engajamento, inclusão e empoderamento de comunidades.
+
+[ARQENGTI Comunidade de Governança-Gestão-Técnica](https://www.youtube.com/channel/UCU7JNMbT7nk-R0KqWa7zjWw)
+- Canal da ARQENGTI, onde o objetivo sempre é de compartilhar e disseminar conhecimento para toda a Comunidade.
+
+[Coding Night](https://www.youtube.com/CodingNight)
+- Canal criado e impulsionado de forma colaborativa por influenciadores da comunidade técnica. Com transmissões ao vivo e vídeos práticos, tem como objetivo compartilhar conhecimento nas mais variadas tecnologias para desenvolvimento de software, principalmente na plataforma Microsoft.
